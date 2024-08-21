@@ -116,6 +116,9 @@ Run  simulate_direct_push() script. It will create an empty commit and push it t
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Disabled Dependabot Alerts and Security Updates   - under Repo settings\ Code security and analysis\
+  
+   ![image](https://github.com/user-attachments/assets/a7a65fba-8ed0-4dee-8af9-e87e08e0f491)
+
 i. What do you recommend as a best practice for this configuration?
 
 As a best practice, you should enable both Dependabot alerts and Dependabot security updates for your repository. This ensures that your project stays protected from known vulnerabilities in your dependencies, and you receive automatic updates to fix these vulnerabilities as soon as they're discovered.
